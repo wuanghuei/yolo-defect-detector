@@ -1,7 +1,7 @@
 ﻿# Defect Detection System with YOLO (Ongoing)
 
 This is an ongoing project exploring defect detection in manufactured products using **YOLOv8**.  
-The goal is to automatically detect defects in objects such as pills and screws, and to build a two-stage pipeline:
+The goal is to automatically detect defects in objects such as pills and screws...etc, and to build a two-stage pipeline:
 
 1. **Object Classification** – Identify which type of product is present in the image (e.g., pill or screw).  
 2. **Defect Detection** – Load the corresponding YOLO weights for that product and detect possible defects.  
@@ -32,3 +32,4 @@ If no defect is detected, the system outputs:
 
 
 <img src="results\good.png" width="400"/>  
+
