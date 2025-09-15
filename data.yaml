@@ -1,0 +1,11 @@
+path: dataset
+train: images/train
+val: images/val
+names:
+  0: color
+  1: combined
+  2: contamination
+  3: crack
+  4: faulty_imprint
+  5: pill_type
+  6: scratch
